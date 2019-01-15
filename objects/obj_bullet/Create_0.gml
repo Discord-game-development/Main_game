@@ -11,5 +11,3 @@ spd = 5
 alarm[0] = range;
 image_angle = dir;
 direction = image_angle;
-
-//Graciously Edited by Erika <3
